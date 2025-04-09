@@ -29,7 +29,9 @@ Created in Python using the Telethon library.
 ## Contact
 If you want to order a similar bot or another simple program — feel free to contact me: Telegram: @cufeer
 
-## Original README in Russian below 
+---
+
+**Original README in Russian below**
 
 # cuferdev-telegram-auto-reminder
 
